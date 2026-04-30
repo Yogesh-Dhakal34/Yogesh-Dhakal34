@@ -33,7 +33,7 @@ Responsive website built with HTML5/CSS3 and Flexbox. Hosted on GitHub Pages.
 **Web:** HTML5, CSS3, Django  
 **Database:** Oracle SQL  
 **Tools:** Git, GitHub, VS Code, Linux (basic)  
-**Cybersecurity:** TryHackMe Top 3% globally · 243-day streak · 148 rooms completed
+**Cybersecurity:** TryHackMe Top 3% globally · 250+ day streak · 150+ rooms completed
 
 ---
 
