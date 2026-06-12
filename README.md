@@ -17,7 +17,7 @@
 ## 👨‍💻 About Me
 
 > 🎓 **BIT Student** at Mid-Valley International College (HELP University affiliate), Kathmandu, Nepal  
-> 🛠️ Building with **Python**, **Django**, **HTML/CSS**, and **Oracle SQL**  
+> 🛠️ Building with **Python**, **HTML/CSS**, and **Oracle SQL**  
 > 🔐 Passionate about **Cybersecurity** — TryHackMe **Top 3% globally** with a 250+ day streak & 150+ rooms  
 > 📍 Based in **Kathmandu, Nepal 🇳🇵**
 
