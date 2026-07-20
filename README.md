@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Yogesh+Dhakal+👋;BIT+Student+%7C+Python+%26+Django+Dev;Cybersecurity+Enthusiast+🔐;TryHackMe+Top+3%25+Globally+🏆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Yogesh+Dhakal+👋;BIT+Student+%7C+Python+%26+Django+Dev;Cybersecurity+Enthusiast+🔐;TryHackMe+Top+2%25+Globally+🏆)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Yogesh-Dhakal34&style=flat-square&color=00C9FF&label=Profile+Views" alt="Profile Views"/>
 
