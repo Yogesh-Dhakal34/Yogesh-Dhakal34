@@ -106,7 +106,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🔐 Cybersecurity
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25%20Globally-red?style=for-the-badge&logo=tryhackme&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25%20Globally-red?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Streak](https://img.shields.io/badge/Streak-250%2B%20Days-orange?style=for-the-badge&logo=fire&logoColor=white)
 ![Rooms](https://img.shields.io/badge/Rooms%20Completed-150%2B-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)
 
