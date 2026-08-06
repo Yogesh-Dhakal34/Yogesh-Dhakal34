@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-dhakal-855175285)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhakalyogesh854@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yogesh-Dhakal34)
 
 </div>
